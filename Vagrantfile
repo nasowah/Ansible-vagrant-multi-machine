@@ -43,9 +43,9 @@ Vagrant.configure("2") do |config|
 
     # DB02 VM
     config.vm.define "db02" do |db02|
-        db01.vm.box= BOX_IMAGE
-        db01.vm.hostname = "db02"
-        db01.vm.network "private_network", ip: "10.0.1.14"
+        db02.vm.box= BOX_IMAGE
+        db02.vm.hostname = "db02"
+        db02.vm.network "private_network", ip: "10.0.1.14"
         
     end
 
