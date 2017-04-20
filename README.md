@@ -1,9 +1,9 @@
 # Ansible + vagrant multi-machine
 This is learning project to set up an infrastructure running:
 
-  1 load balancer,
-  2 Application / Web Servers
-  2 Database Servers
+    1 load balancer,
+    2 Application / Web Servers
+    2 Database Servers
 
 ## Intention of the project
 The intent is to mimic the provissioning and management of a production server for practive.
