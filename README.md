@@ -28,7 +28,9 @@ CentOS 7.2
     10.0.1.13 db01
     10.0.1.14 db02
 
-
+### Tools in use.
+    Vagrant Version - Vagrant 1.9.3
+    Virtual Machine - VirtualBox
 ## Next ... ?
 Will update the README doc as I go along.
 
